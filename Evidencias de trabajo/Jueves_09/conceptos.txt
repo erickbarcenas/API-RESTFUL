@@ -1,0 +1,13 @@
+REST (Representational State Transfer)
+Modelo de arquitectura de software
+Consiste en una serie de directrices para mejorar las comunicaciones cliente-servidor
+
+----------------------------------------------------------------------------------------
+assignee
+labor cost
+overall cost
+parent
+remaining hours
+responsible
+spent time 
+start date
