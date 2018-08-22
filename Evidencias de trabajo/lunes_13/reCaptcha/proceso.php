@@ -10,13 +10,14 @@
 		var_dump($result);
 		$array = json_decode($result, TRUE);
 		echo "<br>";
-		if(array["succes"])
+
+		if($array["success"] AND $array["success"]==TRUE)
 		{
-			echo "Humano";
+			echo("Bienvenido");
 		}
 		else
 		{
-			echo "Robot";
+			echo("Se ha detectado Spam");
 		}
 	}
 ?>
